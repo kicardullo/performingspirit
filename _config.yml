@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder Example Site
+title: Performing the Spirit
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: The accoutrement of the séance performer
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Workshop from digital art history methods"
+description: "Blurb about selections here"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Kat
 
